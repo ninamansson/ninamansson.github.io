@@ -1,7 +1,7 @@
 
 .highlight-text {
 	color: #008B8B;
-	font-size: 50px;
+	font-size: 40px;
 	font-family: 'Libre Franklin', sans-serif;
 	padding-top: 50px
 }
@@ -136,6 +136,10 @@ i.fa.fa-facebook, i.fa.fa-twitter, i.fa.fa-instagram, i.fa.fa-slack, i.fa.fa-env
     padding: 50px 0;
     background: #fff;
     color: #505050;
+}
+
+a {
+	text-decoration: none
 }
 
  .footer{
