@@ -147,14 +147,11 @@ a {
 	}
 	.circletag {
 	    display: block;
-	    width: 500px;
-    	height: 500px;
-    	border-radius: 250px;
+	    width: 30%;
+    	border-radius: 50%;
     	margin-top: 75px; 
 	 } 
-	 .background {
-	background: #F0FFFF;
-	}
+	
 	.background-part {
 			padding:25px;
 			margin-top: 10px;
