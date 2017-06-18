@@ -170,3 +170,33 @@ i.fa.fa-facebook, i.fa.fa-twitter, i.fa.fa-instagram, i.fa.fa-slack, i.fa.fa-env
 	}
 
 }
+
+@media only screen and (max-width: 375px){
+	.highlight-text {
+		color: #008B8B;
+		font-size: 40px;
+		font-family: 'Droid Sans', sans-serif;
+	}
+	.circletag {
+	    display: block;
+	    width: 50px;
+    	height: 50px;
+    	border-radius: 25px;
+    	margin-top: 20px; 
+	 }
+	 .background {
+	background: #F0FFFF;
+	}
+	.background-part {
+			background: #475B5A;
+			padding:25px;
+			margin-top: 10px;
+			margin-bottom: 10px;
+			margin-left: 10px;
+			width: 300px;
+			height: 400px;
+			display: inline-block;
+			float:left;
+	}
+
+}
