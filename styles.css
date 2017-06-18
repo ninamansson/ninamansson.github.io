@@ -1,19 +1,20 @@
 
 .highlight-text {
 	color: #008B8B;
-	font-size: 40px;
-	font-family: 'Droid Sans', sans-serif;
+	font-size: 50px;
+	font-family: 'Libre Franklin', sans-serif;
+	padding-top: 50px
 }
 
 .highlight-minor-text {
 	color: #008B8B;
-	font-size: 20px;
+	font-size: 40px;
 	font-family: 'Droid Sans', sans-serif;
 }
 
 .regular-text {
 	color: 	#BBBBBF;
-	font-size: 25px;
+	font-size: 30px;
 	font-family: 'Lato', sans-serif;
 }
 
@@ -21,12 +22,13 @@
 .body-text {
 	color: #BBBBBF;
 	font-size: 14px;
-	padding: 10px;
+	padding: 15px;
 	font-family: 'Lato', sans-serif;
 }
 
 .background {
 	background: #F0FFFF;
+	width: auto;
 }
 
 .background-part {
@@ -35,7 +37,7 @@
 	margin-top: 10px;
 	margin-bottom: 10px;
 	width: 350px;
-	height: 400px;
+	height: 450px;
 	display: inline-block;
 	float:left;
 }
@@ -153,6 +155,9 @@ i.fa.fa-facebook, i.fa.fa-twitter, i.fa.fa-instagram, i.fa.fa-slack, i.fa.fa-env
     	border-radius: 250px;
     	margin-top: 75px; 
 	 }
+	 .background {
+	background: #F0FFFF;
+	}
 	.background-part {
 			background: #475B5A;
 			padding:25px;
