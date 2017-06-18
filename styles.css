@@ -32,12 +32,11 @@
 }
 
 .background-part {
-	background: #475B5A;
 	padding:25px;
 	margin-top: 10px;
 	margin-bottom: 10px;
 	width: 350px;
-	height: 450px;
+	height: 500px;
 	display: inline-block;
 	float:left;
 }
@@ -66,7 +65,7 @@
 }
 
 .img-resize {
-	width: 200px;
+	width: 300px;
 	height: auto;
 }
 
@@ -100,12 +99,12 @@ i.fa.fa-facebook, i.fa.fa-twitter, i.fa.fa-instagram, i.fa.fa-slack, i.fa.fa-env
  }
 
  i.fa.fa-facebook{
-	 border: 1px solid #3B5998;
+	 border: 2px solid #3B5998;
 	 color: #3B5998;
  }
 
  i.fa.fa-twitter{
-	 border: 1px solid #00aced;
+	 border: 2px solid #00aced;
 	 color: #00aced;
  }
 
@@ -120,8 +119,8 @@ i.fa.fa-facebook, i.fa.fa-twitter, i.fa.fa-instagram, i.fa.fa-slack, i.fa.fa-env
  }
 
  i.fa.fa-envelope-o{
-	 border: 1px solid #000000;
-	 color: #000000;
+	 border: 2px solid #008B8B;
+	 color: #008B8B;
  }
 
  .features-block {
@@ -152,65 +151,26 @@ a {
     	height: 500px;
     	border-radius: 250px;
     	margin-top: 75px; 
-	 }
+	 } 
 	 .background {
 	background: #F0FFFF;
 	}
 	.background-part {
-			background: #475B5A;
 			padding:25px;
 			margin-top: 10px;
 			margin-bottom: 10px;
-			width: 400px;
-			height: 400px;
-			display: inline-block;
-			float:left;
-	}
-
-}
-
-@media only screen and (max-width: 400px){
-	.highlight-text {
-		color: #008B8B;
-		font-size: 40px;
-		font-family: 'Droid Sans', sans-serif;
-	}
-	.body-text {
-		color: #BBBBBF;
-		font-size: 14px;
-		padding: 12px;
-		font-family: 'Lato', sans-serif;
-	}
-
-	.mobile {
-		height: auto;
-		text-align: center;
-	}
-
-
-	.circletag {
-	    display: block;
-    	border-radius: 50%
-    	margin-top: 20px; 
-	 }
-	 .background {
-	background: #F0FFFF;
-	}
-	.background-part {
-			background: #475B5A;
-			padding:10px;
-			margin-top: 10px;
-			margin-bottom: 10px;
-			margin-left: 10px;
-			
+			width: 300px;
 			height: 500px;
 			display: inline-block;
 			float:left;
 	}
-	.center{
-		display: block;
-		margin-left: auto;
-		margin-right: auto;
-	}	
-
+	.background-color-block {
+		display:block;
+		background: #475B5A;
+		height: 450px;
+		width: auto;
+		padding-top: 20px;
+	}
 }
+
+
