@@ -139,7 +139,8 @@ i.fa.fa-facebook, i.fa.fa-twitter, i.fa.fa-instagram, i.fa.fa-slack, i.fa.fa-env
 }
 
 a {
-	text-decoration: none
+	text-decoration: none;
+
 }
 
  .footer{
@@ -183,22 +184,23 @@ a {
 	}
 	.circletag {
 	    display: block;
-	    width: 50px;
-    	height: 50px;
-    	border-radius: 25px;
+	    width: 80px;
+    	height: 80px;
+    	border-radius: 40px;
     	margin-top: 20px; 
 	 }
 	 .background {
 	background: #F0FFFF;
+	width: 370px;
 	}
 	.background-part {
 			background: #475B5A;
-			padding:25px;
+			padding:10px;
 			margin-top: 10px;
 			margin-bottom: 10px;
 			margin-left: 10px;
-			width: 300px;
-			height: 400px;
+			width: 270px;
+			height: 500px;
 			display: inline-block;
 			float:left;
 	}
