@@ -54,9 +54,8 @@
 
 .circletag {
     display: block;
-    width: 100px;
-    height: 100px;
-    border-radius: 50px;
+    width: 80%;
+    border-radius: 50%;
     margin-top: 20px;  
    
 }
@@ -184,7 +183,6 @@ a {
 	}
 
 	.mobile {
-		width: 300px;
 		height: auto;
 		text-align: center;
 	}
@@ -197,7 +195,6 @@ a {
 	 }
 	 .background {
 	background: #F0FFFF;
-	width: 370px;
 	}
 	.background-part {
 			background: #475B5A;
@@ -205,10 +202,15 @@ a {
 			margin-top: 10px;
 			margin-bottom: 10px;
 			margin-left: 10px;
-			width: 300px;
+			
 			height: 500px;
 			display: inline-block;
 			float:left;
 	}
+	.center{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}	
 
 }
