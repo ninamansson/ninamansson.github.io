@@ -141,14 +141,14 @@ a {
  	clear:left;
  }
 
-@media only screen and (min-width: 375px){
+@media only screen and (min-width: 400px){
 	h1 {
 		font-size: 500%;
 	}	
 	.highlight-text {
 		color: #008B8B;
 		font-family: 'Droid Sans', sans-serif;
-		padding-top: 100px
+		padding-top: 100px;
 	}
 	.circletag {
 	    display: block;
