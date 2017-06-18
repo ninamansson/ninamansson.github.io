@@ -1,7 +1,10 @@
 
+h1 {
+	font-size: 300%;
+}
+
 .highlight-text {
 	color: #008B8B;
-	font-size: 40px;
 	font-family: 'Libre Franklin', sans-serif;
 	padding-top: 50px
 }
@@ -139,9 +142,11 @@ a {
  }
 
 @media only screen and (min-width: 760px){
+	h1 {
+		font-size: 750%;
+	}	
 	.highlight-text {
 		color: #008B8B;
-		font-size: 100px;
 		font-family: 'Droid Sans', sans-serif;
 		padding-top: 100px
 	}
