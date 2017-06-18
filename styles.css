@@ -141,9 +141,9 @@ a {
  	clear:left;
  }
 
-@media only screen and (min-width: 760px){
+@media only screen and (min-width: 375px){
 	h1 {
-		font-size: 750%;
+		font-size: 500%;
 	}	
 	.highlight-text {
 		color: #008B8B;
