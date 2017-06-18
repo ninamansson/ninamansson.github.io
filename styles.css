@@ -176,12 +176,26 @@ a {
 
 }
 
-@media only screen and (max-width: 370px){
+@media only screen and (max-width: 400px){
 	.highlight-text {
 		color: #008B8B;
 		font-size: 40px;
 		font-family: 'Droid Sans', sans-serif;
 	}
+	.body-text {
+		color: #BBBBBF;
+		font-size: 14px;
+		padding: 12px;
+		font-family: 'Lato', sans-serif;
+	}
+
+	.mobile {
+		width: 270px;
+		height: auto;
+		text-align: center;
+	}
+
+
 	.circletag {
 	    display: block;
 	    width: 80px;
