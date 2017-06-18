@@ -61,11 +61,13 @@
     display: block;
     width: 100px;
     height: 100px;
-    border-radius: 50px;  
+    border-radius: 50px;
+    margin-top: 20px;  
    
 }
 
 .img-circle {
+	display: block;
     border-radius: 50%;
 }
 
@@ -138,3 +140,28 @@ i.fa.fa-facebook, i.fa.fa-twitter, i.fa.fa-instagram, i.fa.fa-slack, i.fa.fa-env
  	clear:left;
  }
 
+@media only screen and (min-width: 760px){
+	.highlight-text {
+		color: #008B8B;
+		font-size: 100px;
+		font-family: 'Droid Sans', sans-serif;
+	}
+	.circletag {
+	    display: block;
+	    width: 500px;
+    	height: 500px;
+    	border-radius: 250px;
+    	margin-top: 75px; 
+	 }
+	.background-part {
+			background: #475B5A;
+			padding:25px;
+			margin-top: 10px;
+			margin-bottom: 10px;
+			width: 450px;
+			height: 400px;
+			display: inline-block;
+			float:left;
+	}
+
+}
