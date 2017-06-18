@@ -171,7 +171,7 @@ i.fa.fa-facebook, i.fa.fa-twitter, i.fa.fa-instagram, i.fa.fa-slack, i.fa.fa-env
 
 }
 
-@media only screen and (max-width: 375px){
+@media only screen and (max-width: 370px){
 	.highlight-text {
 		color: #008B8B;
 		font-size: 40px;
