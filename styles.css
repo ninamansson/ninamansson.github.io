@@ -4,7 +4,7 @@ h1 {
 }
 
 .highlight-text {
-	color: #008B8B;
+	color: #26C18E;
 	font-family: 'Libre Franklin', sans-serif;
 	padding-top: 50px
 }
@@ -16,7 +16,7 @@ h1 {
 }
 
 .regular-text {
-	color: 	#BBBBBF;
+	color: 	#288dc0;
 	font-size: 30px;
 	font-family: 'Lato', sans-serif;
 }
@@ -122,8 +122,8 @@ i.fa.fa-facebook, i.fa.fa-twitter, i.fa.fa-instagram, i.fa.fa-slack, i.fa.fa-env
  }
 
  i.fa.fa-envelope-o{
-	 border: 2px solid #008B8B;
-	 color: #008B8B;
+	 border: 2px solid #f93247;
+	 color: #f93247;
  }
 
  .features-block {
@@ -146,7 +146,7 @@ a {
 		font-size: 400%;
 	}	
 	.highlight-text {
-		color: #008B8B;
+		color: #26C18E;
 		font-family: 'Droid Sans', sans-serif;
 		padding-top: 100px;
 	}
